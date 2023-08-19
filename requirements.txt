@@ -1,0 +1,7 @@
+langchain==0.0.263
+openai==0.27.8
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+streamlit==1.25.0
+~treamlit==1.23.1
+~treamlit==1.25.0
