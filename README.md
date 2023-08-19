@@ -4,4 +4,4 @@ Get to know your resume better with the power of AI.
 2. Get to know where you lack.
 3. How to upskill related to your job desciption.
 4. Be up to date with the perfect resume to get selected
-   ** ALLES GUTE**
+   ** ALLES GUTE !!!**
